@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CourseProjWPFKudlay", "CourseProjWPFKudlay\CourseProjWPFKudlay.csproj", "{096583CA-9B6A-4C00-9443-E3188EA405A0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{096583CA-9B6A-4C00-9443-E3188EA405A0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{096583CA-9B6A-4C00-9443-E3188EA405A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{096583CA-9B6A-4C00-9443-E3188EA405A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{096583CA-9B6A-4C00-9443-E3188EA405A0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {16EA1E3A-8144-4603-AC33-6B3C00858DE7}
+	EndGlobalSection
+EndGlobal
