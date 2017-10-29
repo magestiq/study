@@ -5,7 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:CourseProjWPFKudlay"
         mc:Ignorable="d"
-        Title="Сравнение графов по числу внутренней устойчивости - Кудлай611пст" Height="464.6" Width="792" ResizeMode="NoResize" WindowStartupLocation="CenterScreen">
+        Title="Сравнение графов по числу внутренней устойчивости - Кудлай611пст (GitVer)" Height="464.6" Width="792" ResizeMode="NoResize" WindowStartupLocation="CenterScreen">
     <Grid>
         <Grid.RowDefinitions>
             <RowDefinition/>
